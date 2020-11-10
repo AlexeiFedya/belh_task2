@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/belh_task2/static/css/main.95640b59.chunk.css",
+    "main.js": "/belh_task2/static/js/main.b8438d79.chunk.js",
+    "main.js.map": "/belh_task2/static/js/main.b8438d79.chunk.js.map",
+    "runtime-main.js": "/belh_task2/static/js/runtime-main.dcff8c26.js",
+    "runtime-main.js.map": "/belh_task2/static/js/runtime-main.dcff8c26.js.map",
+    "static/css/2.de424728.chunk.css": "/belh_task2/static/css/2.de424728.chunk.css",
+    "static/js/2.feabb07b.chunk.js": "/belh_task2/static/js/2.feabb07b.chunk.js",
+    "static/js/2.feabb07b.chunk.js.map": "/belh_task2/static/js/2.feabb07b.chunk.js.map",
+    "index.html": "/belh_task2/index.html",
+    "precache-manifest.9cf087f0cadea1e9e97d8e69ba82a04b.js": "/belh_task2/precache-manifest.9cf087f0cadea1e9e97d8e69ba82a04b.js",
+    "service-worker.js": "/belh_task2/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/belh_task2/static/css/2.de424728.chunk.css.map",
+    "static/css/main.95640b59.chunk.css.map": "/belh_task2/static/css/main.95640b59.chunk.css.map",
+    "static/js/2.feabb07b.chunk.js.LICENSE.txt": "/belh_task2/static/js/2.feabb07b.chunk.js.LICENSE.txt",
+    "static/media/earth_k.png": "/belh_task2/static/media/earth_k.0b83231a.png",
+    "static/media/logo1.svg": "/belh_task2/static/media/logo1.b78bca04.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcff8c26.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.feabb07b.chunk.js",
+    "static/css/main.95640b59.chunk.css",
+    "static/js/main.b8438d79.chunk.js"
+  ]
+}
