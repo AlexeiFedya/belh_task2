@@ -1,0 +1,15 @@
+
+
+.HeaderLayout {
+    display: flex;
+    height: 156px;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+.HeaderLayout a  {
+    text-decoration: none;
+}
+
+

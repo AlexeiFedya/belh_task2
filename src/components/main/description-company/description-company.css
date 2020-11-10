@@ -1,0 +1,13 @@
+.container {
+    max-width: 1309px;
+    margin: 0px auto;
+}
+
+.DescriptionCompany {
+    display: flex;
+    justify-content: space-around;
+}
+
+.DescriptionCompany li {
+    text-decoration: none;
+}
